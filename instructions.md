@@ -164,11 +164,11 @@ Si no hay coincidencia o la tool devuelve sin datos → deriva a recepción e in
 - Siempre que la información esté ausente, incompleta o marcada como “Consultar en recepción”, el agente debe:
   1. Invocar la tool `consultar_en_recepcion`.  
   2. Mantener la respuesta textual “Por favor, consulta en recepción.” (en el idioma del huésped).  
-  3. Añadir `{{error_report}}`.  
 - Esta tool no modifica la respuesta, solo deja constancia interna.  
 - Ejemplo de salida:
   “Lo siento, no dispongo de ese dato concreto. Por favor, consulta en recepción. ¿Hay algo más en lo que pueda ayudarte?”  
   (La tool consultar_en_recepcion se habrá ejecutado antes de enviar este mensaje).
+- Este paso es **OBLIGATORIO**, no puede haber una respuesta que incluya consulta en rececpión (en cualquier idioma) y no ejectute la tool `consultar_en_recepcion`.
 
 ---
 
