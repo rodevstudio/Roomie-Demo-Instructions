@@ -12,7 +12,6 @@ Debes determinar si **el asistente indicó al huésped que debía consultar o ac
 
 Tu salida debe ser **un único JSON válido**, sin texto adicional, con esta estructura:
 
-```json
 {
   "had_reception_query": true | false,
   "language": "<idioma_detectado>",
