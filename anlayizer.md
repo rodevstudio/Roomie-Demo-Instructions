@@ -10,12 +10,4 @@ Tu tarea consiste en **examinar los pares de mensajes** entre un huésped (usuar
 Analiza el texto del usuario (`UserMsg`) y la respuesta del asistente (`AI Response`).  
 Debes determinar si **el asistente indicó al huésped que debía consultar o acudir a recepción**.
 
-Tu salida debe ser **un único JSON válido**, sin texto adicional, con esta estructura:
-
-{
-  "had_reception_query": true | false,
-  "language": "<idioma_detectado>",
-  "intention_detected": "<intención resumida o null>",
-  "trigger_text": "<frase exacta donde el asistente deriva a recepción o null>",
-  "notes": "<detalle breve opcional>"
-}
+Tu salida debe ser **un único JSON válido**, sin texto adicional, con esta estructura: {"had_reception_query": true | false,"language": "<idioma_detectado>","intention_detected": "<intención resumida o null>","trigger_text": "<frase exacta donde el asistente deriva a recepción o null>","notes": "<detalle breve opcional>"}
