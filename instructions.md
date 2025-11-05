@@ -214,3 +214,14 @@ Cuando una pregunta encaje en más de una categoría:
 4. Generar respuesta breve y completa.  
 5. Si no hay datos, redirigir amablemente a recepción e insertar `{{error_report}}`.  
 6. Enviar respuesta final al huésped.
+
+### 🔁 Implementación del registro de errores en el flujo
+
+- Cuando la tool correspondiente se consulta y **no se encuentran datos útiles** (es decir, el agente debe derivar al huésped a recepción), el sistema debe:
+  1. Invocar el nodo **Data Table Insert – “registro_errores”** antes de enviar la respuesta al huésped.  
+     - Este nodo registrará los campos: hotel_id, channel, language, user_message, intent_predicted, tool_invoked, tool_found_data (false), response_preview, context_snapshot (si aplica).  
+  2. Después de insertar el registro, enviar al huésped una **respuesta de redirección** con la marca `{{error_report}}`.  
+- En el flujo de n8n, esto implica una bifurcación lógica:  
+  - Rama **datos encontrados** → respuesta estándar al huésped.  
+  - Rama **datos no encontrados** → nodo “registro_errores” → nodo de envío de redirección al huésped.  
+- El agente debe respetar este orden y no omitir la inserción de registro cuando deriva.
