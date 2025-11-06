@@ -1,4 +1,4 @@
-## Normas y políticas generales – Estival Eldorado Resort
+## TOOL – Normas y políticas generales
 
 - Check-in desde las 15:00 h / Check-out hasta las 11:00 h  
 - Mascotas: no se admiten  
