@@ -1,7 +1,7 @@
 ## info_general
 
 - **Nombre comercial:** Estival Eldorado Resort.  
-- **Página oficial:** Sitio web oficial del hotel.  
+- **Página oficial:** [Sitio web oficial del hotel](https://www.estivalgroup.com/estival-eldorado-resort.html).  
 - **Categoría:** Hotel de 4 estrellas.  
 - **Tipo:** Resort vacacional frente al mar.  
 - **Email de contacto:** eldorado@estivalgroup.com.  
@@ -10,14 +10,14 @@
 - **Tipo de cliente habitual:** Familias, parejas y grupos deportivos.  
 - **Distintivos destacados:** Instalaciones deportivas profesionales, spa y acceso directo a la playa.  
 - **Dirección:** Carrer Doppler n.º 1, Urb. Eldorado Playa, 43850 Cambrils, Tarragona, España.  
-- **Ubicación web oficial:** Información de la ubicación del hotel.  
-- **Ubicación en Google Maps:** Enlace a la ubicación en Google Maps.  
+- **Ubicación web oficial:** [Información de la ubicación del hotel](https://www.estivalgroup.com/estival-eldorado-resort/ubicacion.html).  
+- **Ubicación en Google Maps:** [Enlace a la ubicación en Google Maps](https://www.google.com/maps/place/Estival+Eldorado+Resort/).  
 - **Cómo llegar en coche:** Acceso desde la autopista AP‑7, salida Cambrils.  
 - **Cómo llegar en tren:** Estación de Cambrils (~2 km).  
 - **Cómo llegar en avión:** Aeropuerto de Reus (~18 km) / Aeropuerto de Barcelona (~100 km).  
 - **Entorno:** Frente al mar, con acceso directo a la playa; paseo marítimo y zona residencial tranquila cerca de restaurantes y tiendas del centro de Cambrils.  
-- **Reservas:** Página de reservas.  
-- **Habitaciones:** Información sobre habitaciones.  
-- **Servicios:** Información sobre los servicios.  
-- **Gastronomía:** Información sobre gastronomía.  
-- **FAQs:** Preguntas frecuentes. 
+- **Reservas:** [Página de reservas](https://www.estivalgroup.com/estival-eldorado-resort.html#booking).  
+- **Habitaciones:** [Información sobre habitaciones](https://www.estivalgroup.com/estival-eldorado-resort/habitaciones.html).  
+- **Servicios:** [Información sobre los servicios](https://www.estivalgroup.com/estival-eldorado-resort/servicios.html).  
+- **Gastronomía:** [Información sobre gastronomía](https://www.estivalgroup.com/estival-eldorado-resort/gastronomia.html).  
+- **FAQs:** [Preguntas frecuentes](https://www.estivalgroup.com/estival-eldorado-resort/faqs.html). 
