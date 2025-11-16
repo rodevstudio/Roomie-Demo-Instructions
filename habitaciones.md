@@ -1,8 +1,46 @@
-## habitaciones
+## TOOL – habitaciones
 
-- **Doble Estándar:** Capacidad para 2 adultos; cama doble o 2 individuales; baño completo, aire acondicionado, Wi Fi, TV y terraza.
-- **Doble Vista Mar:** Capacidad para 2 personas; cama doble; terraza con vistas al mar; aire acondicionado, Wi Fi y TV.
-- **Junior Suite:** Capacidad para 3 personas; dormitorio y salón con sofá cama; baño completo; terraza con vistas al mar; aire acondicionado, Wi Fi y TV.
-- **Suite:** Capacidad para 4 personas; dormitorio y salón separados; cama king; vistas al mar; baño completo; aire acondicionado y Wi Fi.
-- **Bungalow Garden:** Capacidad para 4 personas; dos dormitorios; jardín privado y terraza; salón‑comedor; cocina equipada; baño; aire acondicionado y Wi Fi.
-- **Villa Mar:** Capacidad para 4 personas; dos dormitorios; vistas al mar; jardín privado; salón; cocina; baño; aire acondicionado y Wi Fi.
+### INSTRUCCIÓN PARA ROOMIE
+Consulta esta herramienta para informar sobre tipos de habitación. Extrae capacidad, configuración de camas y servicios incluidos. Para fotos, precios u ofertas, redirige a la web oficial.
+
+---
+
+### Tipos de habitación
+
+**Doble Estándar:**
+- Capacidad: 2 adultos
+- Camas: Doble o 2 individuales
+- Servicios: Baño completo, aire acondicionado, Wi-Fi, TV, terraza
+
+**Doble Vista Mar:**
+- Capacidad: 2 personas
+- Camas: Doble
+- Servicios: Baño completo, aire acondicionado, Wi-Fi, TV, terraza con vistas al mar
+
+**Junior Suite:**
+- Capacidad: 3 personas
+- Configuración: Dormitorio + salón con sofá cama
+- Servicios: Baño completo, aire acondicionado, Wi-Fi, TV, terraza con vistas al mar
+
+**Suite:**
+- Capacidad: 4 personas
+- Configuración: Dormitorio y salón separados, cama king
+- Servicios: Baño completo, aire acondicionado, Wi-Fi, vistas al mar
+
+**Bungalow Garden:**
+- Capacidad: 4 personas
+- Configuración: 2 dormitorios, salón-comedor, cocina equipada
+- Servicios: Baño, aire acondicionado, Wi-Fi, jardín privado y terraza
+
+**Villa Mar:**
+- Capacidad: 4 personas
+- Configuración: 2 dormitorios, salón, cocina equipada
+- Servicios: Baño, aire acondicionado, Wi-Fi, jardín privado, vistas al mar
+
+---
+
+### Cómo usar esta información
+
+**Para describir habitaciones:** Comunica capacidad, tipo de camas y servicios incluidos
+
+**Para fotos/precios/disponibilidad:** Redirige a https://www.estivalgroup.com/estival-eldorado-resort/habitaciones.html o facilita reserva en +34 977 36 11 90
